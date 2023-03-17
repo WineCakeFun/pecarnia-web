@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:bittorrent="http://www.borget.info/bittorrent-rss/">
+<pecarnia>
+  <products>
+    <product>
+      <Id>1</Id>
+      <ProductName>Khlib</ProductName>
+      <ManufactureDate>15.04.2021</ManufactureDate>
+      <BestBefore>17.04.2021</BestBefore>
+      <Price>20</Price>
+    </product>
+    <product>
+      <Id>2</Id>
+      <ProductName>Baguette</ProductName>
+      <ManufactureDate>15.04.2021</ManufactureDate>
+      <BestBefore>17.04.2021</BestBefore>
+      <Price>40</Price>
+    </product>
+    <product>
+      <Id>3</Id>
+      <ProductName>Loaf</ProductName>
+      <ManufactureDate>15.04.2021</ManufactureDate>
+      <BestBefore>17.04.2021</BestBefore>
+      <Price>50</Price>
+    </product>
+    <product>
+      <Id>4</Id>
+      <ProductName>Tart</ProductName>
+      <ManufactureDate>15.04.2021</ManufactureDate>
+      <BestBefore>17.04.2021</BestBefore>
+      <Price>50</Price>
+    </product>
+    <product>
+      <Id>5</Id>
+      <ProductName>Meletta</ProductName>
+      <ManufactureDate>15.04.2021</ManufactureDate>
+      <BestBefore>17.04.2021</BestBefore>
+      <Price>60</Price>
+    </product>
+  </products>
+</pecarnia>
+</rss>

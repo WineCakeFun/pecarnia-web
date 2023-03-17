@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<pecarnia>
+  <clients>
+    <client>
+      <id>2</id>
+      <FirstName>Milan</FirstName>
+      <LastName>Hordiienko</LastName>
+      <Email>milhord@gmail.com</Email>
+    </client>
+    <client>
+      <id>3</id>
+      <FirstName>Anton</FirstName>
+      <LastName>Debrev</LastName>
+      <Email>debrev@gmail.com</Email>
+    </client>
+    <client>
+      <id>4</id>
+      <FirstName>Oleg</FirstName>
+      <LastName>Morkvov</LastName>
+      <Email>morkvov@gmail.com</Email>
+    </client>
+  </clients>
+</pecarnia>
